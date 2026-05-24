@@ -177,3 +177,6 @@ plot.py
 (14)三个对比图multiScaleTimeFusionV3.py
 
 输出：Ablation_Three_Scenarios.pdf
+
+
+注:数据经过处理时间分辨率1h。
